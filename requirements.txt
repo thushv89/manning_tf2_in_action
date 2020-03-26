@@ -4,3 +4,8 @@ scikit-learn==0.22
 tensorflow==2.1.0
 jupyter==1.0.0
 matplotlib==3.2.0
+# Required by some keras components (e.g. ImageDataGenerator)
+PILLOW==7.0.0 
+# Installing graphviz/pydot
+# Requires to install graphviz in conda and also edit PATH variable to include Graphviz
+tensorflow-datasets
