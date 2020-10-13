@@ -9,3 +9,4 @@ PILLOW==7.1.0
 # Installing graphviz/pydot
 # Requires to install graphviz in conda and also edit PATH variable to include Graphviz
 tensorflow-datasets
+tensorflow_hub
