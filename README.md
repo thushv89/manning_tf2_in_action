@@ -14,7 +14,7 @@ This project provides the code repository for the code in TensorFlow 2.0 in Acti
 
 * Install Anaconda
 * Open up Anaconda Prompt
-* Setup a conda virtual environment with `conda create manning.tf2 python=3.6`
+* Setup a conda virtual environment with `conda create -n manning.tf2 python=3.6`
 * Activate the environment with `conda activate manning.tf2`
 * Install the required libraries using `pip install -r requirements.txt`
 
