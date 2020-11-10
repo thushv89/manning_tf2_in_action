@@ -1,15 +1,14 @@
-# TensorFlow 2.0 in Action
+# [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action)
 
-This project provides the code repository for the code in TensorFlow 2.0 in Action.
+This project is the code repository for [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action).
 
 ## Prerequisites (If you want GPU support)
 
 * Install the latest NVIDIA driver for your GPU from [this page](https://www.nvidia.com/download/index.aspx?lang=en-us)
-* Install CUDA 10.1 (TensorFlow 2.1)
+* Install CUDA 10.2 (TensorFlow 2.3)
 * Setup CuDNN
-<<<<<<< HEAD
-* Make sure your $PATH variable contains the path to the bin folder of cuda (e.g. On Windows - C:\CUDA\v10.1\bin)
-  * On UNIX - Set LD_LIBRARY_PATH to `lib64` folder (e.g. `/usr/local/cuda-10.1/lib64`)
+* Make sure your $PATH variable contains the path to the bin folder of cuda (e.g. On Windows - C:\CUDA\v10.2\bin)
+  * On UNIX - Set LD_LIBRARY_PATH to `lib64` folder (e.g. `/usr/local/cuda-10.2/lib64`)
 
 ## Creating a Virtual Environment (Anaconda) (Recommended)
 
@@ -18,7 +17,6 @@ This project provides the code repository for the code in TensorFlow 2.0 in Acti
 * Setup a conda virtual environment with `conda create -n manning.tf2 python=3.6`
 * Activate the environment with `conda activate manning.tf2`
 * Install the required libraries using `pip install -r requirements.txt`
-
 
 ## Creating a Virtual Environment (virtualenv)
 
