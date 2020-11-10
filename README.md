@@ -7,6 +7,7 @@ This project provides the code repository for the code in TensorFlow 2.0 in Acti
 * Install the latest NVIDIA driver for your GPU from [this page](https://www.nvidia.com/download/index.aspx?lang=en-us)
 * Install CUDA 10.1 (TensorFlow 2.1)
 * Setup CuDNN
+<<<<<<< HEAD
 * Make sure your $PATH variable contains the path to the bin folder of cuda (e.g. On Windows - C:\CUDA\v10.1\bin)
   * On UNIX - Set LD_LIBRARY_PATH to `lib64` folder (e.g. `/usr/local/cuda-10.1/lib64`)
 
