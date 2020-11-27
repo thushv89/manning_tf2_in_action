@@ -1,6 +1,11 @@
-# [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action)
+# [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5)
 
-This project is the code repository for [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action).
+This project is the code repository for [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5).
+
+## Video Guides for Installation
+
+* [Windows installation guide on YouTube](https://www.youtube.com/watch?v=FPfH_pM9YXg)
+* Linux installation guide on YouTube - TBA
 
 ## Prerequisites (If you want GPU support)
 
