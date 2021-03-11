@@ -12,7 +12,7 @@ tensorflow-datasets
 tensorflow_hub
 nltk==3.5
 # From huggingface
-transformers
-datasets
+transformers==4.3.3
+datasets==1.4.1
 # Attention visualize
-bertviz
+bertviz==1.0.0
