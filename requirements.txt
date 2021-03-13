@@ -11,3 +11,9 @@ PILLOW==7.1.0
 tensorflow-datasets
 tensorflow_hub
 nltk==3.5
+# From huggingface
+transformers==4.3.3
+datasets==1.4.1
+# Attention visualize
+bertviz==1.0.0
+imbalanced-learn
