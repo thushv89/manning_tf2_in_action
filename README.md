@@ -5,7 +5,7 @@ This project is the code repository for [TensorFlow 2.0 in Action](https://www.m
 ## Video Guides for Installation
 
 * [Windows installation guide on YouTube](https://www.youtube.com/watch?v=FPfH_pM9YXg)
-* Linux installation guide on YouTube - TBA
+* [Linux installation guide on YouTube](https://www.youtube.com/watch?v=c-XT7XMmB5o)
 
 ## Prerequisites (If you want GPU support)
 
