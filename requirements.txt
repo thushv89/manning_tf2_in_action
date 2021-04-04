@@ -1,7 +1,7 @@
 pandas==1.0.0
 numpy==1.18.1
 scikit-learn==0.22
-tensorflow==2.2.1
+tensorflow==2.4.0
 jupyter==1.0.0
 matplotlib==3.2.0
 # Required by some keras components (e.g. ImageDataGenerator)
@@ -10,3 +10,13 @@ PILLOW==7.1.0
 # Requires to install graphviz in conda and also edit PATH variable to include Graphviz
 tensorflow-datasets
 tensorflow_hub
+tensorflow-addons==0.12.1
+tf-models-official==2.4
+nltk==3.5
+imbalanced-learn
+# From huggingface
+transformers==4.3.3
+datasets==1.4.1
+# Attention visualize
+bertviz==1.0.0
+
