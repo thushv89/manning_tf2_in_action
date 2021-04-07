@@ -10,6 +10,7 @@ PILLOW==7.1.0
 # Requires to install graphviz in conda and also edit PATH variable to include Graphviz
 tensorflow-datasets
 tensorflow_hub
+tensorflow-addons==0.12.1
 tf-models-official==2.4
 nltk==3.5
 imbalanced-learn
