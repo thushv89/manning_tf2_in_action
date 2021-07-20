@@ -1,5 +1,0 @@
-numpy==1.19.3
-pandas==0.25.3
-jupyter==1.0.0
-tfx==0.30.0
-apache-beam==2.29
