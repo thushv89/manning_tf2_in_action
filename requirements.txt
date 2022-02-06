@@ -1,23 +1,22 @@
-pandas==1.0.0
-numpy==1.18.1
-scikit-learn==0.22
-tensorflow==2.4.0
+# Tensorflow
+tensorflow==2.5.3
+tensorflow-datasets==4.5.2
+tensorflow_hub==0.12.0
+tensorflow-addons==0.15.0
+tensorboard_plugin_profile==2.5.0
+tf-models-official==2.5.0
+# Standard libraries
+pandas==1.3.0
+scikit-learn==1.0.2
 jupyter==1.0.0
-matplotlib==3.2.0
+matplotlib==3.5.1
 # Required by some keras components (e.g. ImageDataGenerator)
-PILLOW==7.1.0 
-# Installing graphviz/pydot
-# Requires to install graphviz in conda and also edit PATH variable to include Graphviz
-tensorflow-datasets
-tensorflow_hub
-tensorflow-addons==0.12.1
-tf-models-official==2.4
-nltk==3.5
-imbalanced-learn
-# From huggingface
-transformers==4.3.3
-datasets==1.4.1
+PILLOW==9.0.0 
+nltk==3.6.7
+imbalanced-learn==0.9.0
+# Transformer related libraries
+transformers==4.16.2
+datasets==1.18.3
+pydot
 # Attention visualize
 bertviz==1.0.0
-tensorboard_plugin_profile
-
