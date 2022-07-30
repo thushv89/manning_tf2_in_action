@@ -1,6 +1,6 @@
-# [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5)
+# [TensorFlow in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5)
 
-This project is the code repository for [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5).
+This project is the code repository for [TensorFlow in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5).
 
 **IMPORTANT**: You will need to have [Visual Studio](https://visualstudio.microsoft.com/downloads/) installed. Make sure your installation has Windows SDK
 
@@ -12,7 +12,7 @@ This project is the code repository for [TensorFlow 2.0 in Action](https://www.m
 ## Prerequisites (If you want GPU support)
 
 * Install the latest NVIDIA driver for your GPU from [this page](https://www.nvidia.com/download/index.aspx?lang=en-us)
-* Install CUDA 11.2 (TensorFlow 2.5.0)
+* Install CUDA 11.2 (TensorFlow 2.9.1)
 * Setup CuDNN (v8.2 for CUDA 11.2)
 * Make sure your $PATH variable contains the path to the bin folder of cuda (e.g. On Windows - C:\CUDA\v11.2\bin)
   * On UNIX - Set LD_LIBRARY_PATH to `lib64` folder (e.g. `/usr/local/cuda-11.2/lib64`)
@@ -21,16 +21,16 @@ This project is the code repository for [TensorFlow 2.0 in Action](https://www.m
 
 * Install Anaconda
 * Open up Anaconda Prompt
-* Setup a conda virtual environment with `conda create -n manning.tf2 python=3.7`
+* Setup a conda virtual environment with `conda create -n manning.tf2 python=3.9`
 * Activate the environment with `conda activate manning.tf2`
 * Install the required libraries using `pip install -r requirements.txt`
 
 ## Creating a Virtual Environment (virtualenv)
 
-* Install [Python 3.7](https://www.python.org/downloads/release/python-370/) by following instructions on the webpage. Make sure it is added to the PATH variable. 
-* To verify the installation of Python3.7, go to the command line terminal and type python and press enter. You should see a message similar to the following.
+* Install [Python 3.9](https://www.python.org/downloads/release/python-390/) by following instructions on the webpage. Make sure it is added to the PATH variable. 
+* To verify the installation of Python3.9, go to the command line terminal and type python and press enter. You should see a message similar to the following.
 	```
-	Python 3.7.0 (...) [...] on ...
+	Python 3.9.0 (...) [...] on ...
 	Type "help", "copyright", "credits" or "license" for more information.
 	```
 * Type `exit()` to exit the Python interpreter.
