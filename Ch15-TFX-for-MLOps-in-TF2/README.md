@@ -8,6 +8,6 @@ For this exercise we will setup a new environment.
 
 1. If you already have an `conda` environment activated deactivate it by running `conda deactivate` or `source deactivate` (older Conda version).
 2. Go in to the chapter directory by `cd`ing into the `manning_tf2_in_action/Ch15-TFX-for-MLOps-in-TF2` directory.
-3. Run `conda create -n manning.tf2.8.tfx python=3.8`.
+3. Run `conda create -n manning.tf2.tfx python=3.8`.
 4. Run `pip install --use-deprecated=legacy-resolver -r requirements.txt`. We use the legacy resolver here along with pinning some dependencies to speed up the installs. It seems `tfx`'s dependency definitions are very loose.
 5. Run `jupyter notebook` to start the notebook.
