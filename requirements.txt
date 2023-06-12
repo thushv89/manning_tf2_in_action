@@ -16,7 +16,7 @@ PILLOW==9.2
 nltk==3.7
 imbalanced-learn==0.9.1
 # Transformer related libraries
-transformers==4.20
+transformers==4.30.0
 datasets==2.3
 pydot
 # Attention visualize
